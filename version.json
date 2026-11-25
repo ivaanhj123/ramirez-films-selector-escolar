@@ -1,5 +1,5 @@
 {
-  "version": "0.7.0",
+  "version": "0.8.0",
   "download_url": "https://github.com/ivaanhj123/ramirez-films-selector-escolar/raw/refs/heads/main/PickFlow_Selector_Escolar.zip",
-  "notes": "Nueva interfaz PickFlow con vista previa de miniaturas y actualizaciones automáticas."
+  "notes": "Interfaz PickFlow, miniaturas y reinicio de actualizaciones sin ventana de consola."
 }
