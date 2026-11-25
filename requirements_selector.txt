@@ -1,0 +1,3 @@
+Pillow>=10.0
+# Opcional: mejora mucho el cálculo de nitidez y permite análisis avanzado en futuras versiones.
+opencv-python>=4.8
