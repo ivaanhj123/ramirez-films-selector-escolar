@@ -1,6 +1,6 @@
 {
-  "version": "0.16.0",
+  "version": "0.17.0",
   "download_url": "https://github.com/ivaanhj123/ramirez-films-selector-escolar/raw/refs/heads/main/PickFlow_Selector_Escolar.zip",
-  "installer_url": "https://github.com/ivaanhj123/ramirez-films-selector-escolar/releases/latest/download/PickFlow_Setup_0.16.0.exe",
-  "notes": "IA local para puntuar nitidez, ojos, iluminación y encuadre."
+  "installer_url": "https://github.com/ivaanhj123/ramirez-films-selector-escolar/releases/latest/download/PickFlow_Setup_0.17.0.exe",
+  "notes": "Vista previa de todas las fotos, filtros verde/rojo y doble clic para ampliar."
 }
