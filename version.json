@@ -1,5 +1,6 @@
 {
-  "version": "0.14.0",
+  "version": "0.16.0",
   "download_url": "https://github.com/ivaanhj123/ramirez-films-selector-escolar/raw/refs/heads/main/PickFlow_Selector_Escolar.zip",
-  "notes": "Nueva barra de menus Archivo, Ajustes y Ayuda; guardado manual de proyectos y preferencias de analisis."
+  "installer_url": "https://github.com/ivaanhj123/ramirez-films-selector-escolar/releases/latest/download/PickFlow_Setup_0.16.0.exe",
+  "notes": "IA local para puntuar nitidez, ojos, iluminación y encuadre."
 }
