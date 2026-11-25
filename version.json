@@ -1,6 +1,6 @@
 {
-  "version": "0.19.1",
+  "version": "0.21.0",
   "download_url": "https://github.com/ivaanhj123/ramirez-films-selector-escolar/raw/refs/heads/main/PickFlow_Selector_Escolar.zip",
-  "installer_url": "https://github.com/ivaanhj123/ramirez-films-selector-escolar/releases/latest/download/PickFlow_Setup_0.19.1.exe",
-  "notes": "Correccion de inicio de la nueva interfaz PickFlow."
+  "installer_url": "https://github.com/ivaanhj123/ramirez-films-selector-escolar/releases/latest/download/PickFlow_Setup_0.21.0.exe",
+  "notes": "Aprendizaje local de preferencias a partir de marcas manuales; no guarda ni sube las fotos."
 }
