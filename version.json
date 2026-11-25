@@ -1,6 +1,6 @@
 {
-  "version": "0.19.0",
+  "version": "0.19.1",
   "download_url": "https://github.com/ivaanhj123/ramirez-films-selector-escolar/raw/refs/heads/main/PickFlow_Selector_Escolar.zip",
-  "installer_url": "https://github.com/ivaanhj123/ramirez-films-selector-escolar/releases/latest/download/PickFlow_Setup_0.19.0.exe",
-  "notes": "Nueva interfaz PickFlow con panel de proyectos, controles de IA, vista previa e inspección de fotos."
+  "installer_url": "https://github.com/ivaanhj123/ramirez-films-selector-escolar/releases/latest/download/PickFlow_Setup_0.19.1.exe",
+  "notes": "Correccion de inicio de la nueva interfaz PickFlow."
 }
